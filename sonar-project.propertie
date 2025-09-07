@@ -1,0 +1,4 @@
+sonar.projectKey=chaani01_petclinic
+sonar.organization=chaani01
+sonar.host.url=https://sonarcloud.io
+sonar.java.binaries=target
